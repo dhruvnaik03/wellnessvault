@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1070126257893",
+    "project_id": "wellnessvault0",
+    "storage_bucket": "wellnessvault0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1070126257893:android:ccc3b3f77d40b61f7f660c",
+        "android_client_info": {
+          "package_name": "com.example.wellnessvault"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZFmWycaRalOuYr5Livx2nqJHyXHHhbN8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
